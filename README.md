@@ -2,7 +2,7 @@ Hello, my name is Shayan Mohsin and this is my CLI Data Gem Project, The Guitar 
 
 Guitar Gallery is an application that allows users to learn about 10 guitars that have been selected to be featured in this Guitar Gallery
 
-The application can be started the app calling ./bin/guitargallery in the command line while in the cli9 directory.
+The application can be started the app calling ./bin/guitargallery in the command line while in the directory.
 
 For further instructions and to view the MIT license, please see below:
 
